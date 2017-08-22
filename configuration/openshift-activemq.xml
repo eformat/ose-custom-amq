@@ -115,6 +115,7 @@
         </persistenceAdapter>
 
         <plugins>
+            <!-- ##### AUTHENTICATION ##### -->
 
             <authorizationPlugin>
                 <map>
@@ -127,7 +128,6 @@
                 </map>
             </authorizationPlugin>
 
-`
         </plugins>
 
         <!--
