@@ -115,8 +115,6 @@
         </persistenceAdapter>
 
         <plugins>
-            <!-- ##### AUTHENTICATION ##### -->
-
 
             <authorizationPlugin>
                 <map>
